@@ -1,4 +1,4 @@
-# Learning
+# Learning Java Project
 Java resources team #3786
 
 ### Problem 1
